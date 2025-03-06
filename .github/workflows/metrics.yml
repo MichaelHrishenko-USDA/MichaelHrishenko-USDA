@@ -37,4 +37,6 @@ jobs:
           filename: ${{ github.job }}.svg
           base: ""
           plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 500
           plugin_languages_ignored: dockerfile, makefile
