@@ -15,8 +15,12 @@ Some stuff we do:
 [Biodiversity helps crops](https://www.nrcs.usda.gov/getting-assistance/other-topics/organic/nrcs-assistance-for-organic-farmers/habitat-biodiversity)  
 [We care about the honey bees](https://www.ars.usda.gov/oc/br/ccd/index/)  
 
-</div>
 
+
+</div>
+<br>
+<hr style="width:70%">
+<br>
 <!-- Metrics Github Profile -->
 <a href="https://github.com/MichaelHrishenko-USDA">
   <img align="center" width="49%" src="metrics-languages.svg" alt="Metrics Achievements"/>
