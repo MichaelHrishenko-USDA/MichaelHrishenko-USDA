@@ -38,6 +38,3 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: dockerfile, makefile
-          plugin_languages_indepth: no
-
-  
