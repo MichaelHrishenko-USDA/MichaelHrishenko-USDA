@@ -23,11 +23,11 @@ Some stuff we do:
 <br>
 <!-- Metrics Github Profile -->
 <a href="https://github.com/MichaelHrishenko-USDA">
-  <img align="center" width="49%" src="metrics-habits.svg" alt="Metrics Achievements"/>
+  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Achievements"/>
 </a>
 <!-- Metrics Github Contributions -->
 <a href="https://github.com/MichaelHrishenko-USDA">
-  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Languages"/>
+  <img align="center" width="49%" src="metrics-habits.svg" alt="Metrics Habits"/>
 </a>
 
 <!--  ![Metrics](/github-metrics.svg) -->
