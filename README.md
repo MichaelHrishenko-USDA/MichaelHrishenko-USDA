@@ -3,7 +3,7 @@
 
 ## USDA
 
-Hi there! I'm a software developer/SQL admin/tech support (lotsa hats 🎩👒), in USDA's National Agricultural Statistics Service ([NASS](https://www.nass.usda.gov/)). We collect, store, analyze, and disseminate the data needed to understand trends in American Agriculture, and better help our farmers.
+Hi there! I'm a software engineer/SQL admin/tech support (lotsa hats 🎩👒), in USDA's National Agricultural Statistics Service ([NASS](https://www.nass.usda.gov/)). We collect, store, analyze, and disseminate the data needed to understand trends in American Agriculture, and better help our farmers.
 
 Some stuff we do:
 
