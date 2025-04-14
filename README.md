@@ -21,13 +21,13 @@ Some stuff we do:
 <br>
 <hr style="width:70%">
 <br>
-<!-- Metrics Github Profile -->
-<a href="https://github.com/MichaelHrishenko-USDA">
-  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Achievements"/>
+<!-- Metrics Github Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
+  <img src="https://github-readme-stats.vercel.app/api/?username=MichaelHrishenko-USDA" alt="Metrics Stats"/>
 </a>
-<!-- Metrics Github Contributions -->
-<a href="https://github.com/MichaelHrishenko-USDA">
-  <img align="center" width="49%" src="metrics-habits.svg" alt="Metrics Habits"/>
+<!-- Metrics Github Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHrishenko-USDA" alt="Metrics Languages"/>
 </a>
 
 <!--  ![Metrics](/github-metrics.svg) -->
