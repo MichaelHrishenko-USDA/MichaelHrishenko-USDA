@@ -23,11 +23,11 @@ Some stuff we do:
 <br>
 <!-- Metrics Github Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-  <img src="https://github-readme-stats.vercel.app/api/?username=MichaelHrishenko-USDA" alt="Metrics Stats"/>
+  <img src="https://github.com/MichaelHrishenko-USDA/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Metrics Stats"/>
 </a>
 <!-- Metrics Github Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHrishenko-USDA" alt="Metrics Languages"/>
+  <img src="https://github.com/MichaelHrishenko-USDA/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Metrics Languages"/>
 </a>
 
 <!--  ![Metrics](/github-metrics.svg) -->
