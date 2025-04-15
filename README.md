@@ -17,7 +17,7 @@ Some stuff we do:
 
 
 
-</div>
+
 <br>
 <hr style="width:70%">
 <br>
@@ -29,5 +29,5 @@ Some stuff we do:
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
   <img src="https://github.com/MichaelHrishenko-USDA/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Metrics Languages"/>
 </a>
-
+</div>
 <!--  ![Metrics](/github-metrics.svg) -->
