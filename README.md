@@ -15,9 +15,6 @@ Some stuff we do:
 [Biodiversity helps crops](https://www.nrcs.usda.gov/getting-assistance/other-topics/organic/nrcs-assistance-for-organic-farmers/habitat-biodiversity)  
 [We care about the honey bees](https://www.ars.usda.gov/oc/br/ccd/index/)  
 
-
-
-
 <br>
 <hr style="width:70%">
 <br>
@@ -29,5 +26,16 @@ Some stuff we do:
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
   <img src="https://github.com/MichaelHrishenko-USDA/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Metrics Languages"/>
 </a>
+
+<br>
+<hr style="width:70%">
+<br>
+
+| Organization Repositories                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- |
+| 🎲 [Database Integrated County Estimates](https://github.com/USDA-REE-NASS/dice-form-application)            |
+| 🔧 [NASS Integration Tool](https://github.com/USDA-REE-NASS/nass-integration-tool-web-application)           |
+| 🗃️ [Review, Estimates, Comments, Approval & Publish](https://github.com/USDA-REE-NASS/recap-web-application)  |
+
 </div>
 <!--  ![Metrics](/github-metrics.svg) -->
